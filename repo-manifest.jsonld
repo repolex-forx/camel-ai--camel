@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/camel-ai/camel/commit/e5e55256e9446f744bf7309c478b084587dbf985",
       "git:hexsha": "e5e55256e9446f744bf7309c478b084587dbf985",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/camel-ai/camel/commit/cb5e8a8c102baad73127dd0cbf8e50511c9f36ea",
