@@ -1,0 +1,11 @@
+{
+  "org": "camel-ai",
+  "repo": "camel",
+  "versions": [
+    {
+      "commit": "e5e55256e9446f744bf7309c478b084587dbf985",
+      "tag": "",
+      "parsed_at": "2026-10-17T19:40:13.202379+00:00"
+    }
+  ]
+}
